@@ -2,7 +2,7 @@ Hi 👋, I'm Khouloud Said
 
 
 
-- 🎒 Studying Computer Science Engineering @ENICarthage, who is a passionate, hard-working and highly motivated learner.
+- 🎒 Studying Computer Science Engineering @ENICarthage, I AM a passionate, hard-working and highly motivated learner.
 - 💻 How to reach me: khouloud.said@enicar.ucar.tn
 - 💻 Here is my LinkedIn: https://www.linkedin.com/in/khouloud-said-905a691a8/
 
