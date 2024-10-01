@@ -2,13 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Khouloud Said</h1>
 
-- 🎒 Studying Computer Science Engineering @ENICarthage, I AM a passionate, hard-working and highly motivated learner.
-- 💻 How to reach me: khouloud.said@enicar.ucar.tn
-- 👯 I’m looking to collaborate on Any suggestion that may boost my career
-- 🌱 I’m currently learning **AWS, Devops, .Net**
-
-
-
+- 
+- 🎒 Freshly Graduated as a software engineer from the National Engineering School of Carthage (ENICarthage) in Tunisia.
+- 💡 I AM a passionate, hard-working and highly motivated learner.
+- 👯 I’m looking to collaborate on Any suggestion that may boost my career.
+- 💻 How to reach me: khouloudsaid1234@gmail.com
 
 
 <!--
