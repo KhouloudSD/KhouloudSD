@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Khouloud Said</h1>
 
-- 
 - 🎒 Freshly Graduated as a software engineer from the National Engineering School of Carthage (ENICarthage) in Tunisia.
 - 💡 I AM a passionate, hard-working and highly motivated learner.
 - 👯 I’m looking to collaborate on Any suggestion that may boost my career.
@@ -27,6 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://github.com/KhouloudSD" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> &nbsp;
 <a href="https://www.linkedin.com/in/khouloud-said-905a691a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Khouloud said" height="30" width="40" /></a>
 </p>
 
